@@ -1,0 +1,7 @@
+Nombre:Luna Katerina
+Apellido:Salvo
+Materia:Maquetado y desarrollo web
+Turno:Noche
+Comision:DMN2BP
+Año de cursada:2026
+URL:
